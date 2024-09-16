@@ -6,7 +6,6 @@ on:
         run_job:
             description: 'Run Specific Job'
             required: false
-            default: false
             type: boolean
         custom_message:
             description: 'Run Specific Job'
